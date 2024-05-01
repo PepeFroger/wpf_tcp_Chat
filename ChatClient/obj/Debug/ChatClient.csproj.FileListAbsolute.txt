@@ -1,0 +1,15 @@
+C:\Users\petro\source\repos\ServerChat\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\petro\source\repos\ServerChat\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\petro\source\repos\ServerChat\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\petro\source\repos\ServerChat\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+C:\Users\petro\source\repos\ServerChat\ChatClient\obj\Debug\MainWindow.g.cs
+C:\Users\petro\source\repos\ServerChat\ChatClient\obj\Debug\App.g.cs
+C:\Users\petro\source\repos\ServerChat\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+C:\Users\petro\source\repos\ServerChat\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
+C:\Users\petro\source\repos\ServerChat\ChatClient\obj\Debug\MainWindow.baml
+C:\Users\petro\source\repos\ServerChat\ChatClient\obj\Debug\ChatClient.g.resources
+C:\Users\petro\source\repos\ServerChat\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\petro\source\repos\ServerChat\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\petro\source\repos\ServerChat\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\petro\source\repos\ServerChat\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\petro\source\repos\ServerChat\ChatClient\obj\Debug\ChatClient.pdb
